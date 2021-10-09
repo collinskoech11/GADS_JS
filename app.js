@@ -8,7 +8,7 @@ console.log(count);
 (function() {
     console.log("hello);
 })();
- //closures 
+//closures 
 let greeting = (function() {
     let message = 'hello';
     let getMessage = function() {
